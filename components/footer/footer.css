@@ -1,0 +1,64 @@
+.footer {
+    width: 100%;
+    height: 400px;
+    background: rgba(0, 0, 0, 0.83);
+    color: rgb(148, 148, 148);
+}
+
+.inline {
+    display: inline-block;
+}
+
+.footer-title {
+    padding-top: 20px;
+}
+
+
+.footer-tilte {
+    position: relative;
+    top: 50px;
+    width:  220px;
+    height: 40px;
+    left: 450px;
+}
+.footer-upper-text {
+    font-size: 20px;
+}
+.footer-lower-text {
+    font-size: 16px;
+}
+
+.contacts {
+    width: 300px;
+    position: relative;
+    left: 450px;
+    top: 80px;
+    font-size: 20px;
+}
+
+.adress, .number, .email {
+    margin-top: 30px;
+}
+
+.social-nets {
+    left: 1750px;
+    position: relative;
+    top: -100px;
+    width: 400px;
+}
+
+.net {
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.net-img {
+    position: relative;
+    top: 3px;
+    margin-right: 30px;
+}
+
+a {
+    text-decoration:none;
+    color: rgb(148, 148, 148);
+}
